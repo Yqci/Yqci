@@ -11,6 +11,11 @@ header {
   color: white;
   align-items: center;
 }
+
+a {
+　　color: #fff;
+　　text-transform: uppercase;
+}
  
 .title {
   margin-right: auto;
