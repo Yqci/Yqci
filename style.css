@@ -9,14 +9,19 @@ header {
   height: 100px;
   background-color: black;
   align-items: center;
+  padding-top: 5px;
+  box-sizing: border-box;
 }
  
 .title {
-  margin-right: auto;
+  margin-right: 35px;
 }
  
 .menu-item {
   list-style: none;
   display: inline-block;
   padding: 10px;
+  text-decoration: none;
+  color: white;
+  margin-right: 35px;
 }
